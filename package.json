@@ -1,0 +1,10 @@
+{
+  "name": "cloudscockpit-backend",
+  "version": "1.0.0",
+  "description": "Serverless Framework for CloudsCockpit.io backend",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-lift": "^1.1.2"
+  }
+}
